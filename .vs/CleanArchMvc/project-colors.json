@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "20c254c8-cd4b-431d-bdee-3ae3c2700490": {
+      "ProjectGuid": "20c254c8-cd4b-431d-bdee-3ae3c2700490",
+      "DisplayName": "CleanArchMvc.Application",
+      "ColorIndex": 0
+    },
+    "bdfb2d13-a9c0-4118-9b31-f8e8aaf045f4": {
+      "ProjectGuid": "bdfb2d13-a9c0-4118-9b31-f8e8aaf045f4",
+      "DisplayName": "CleanArchMvc.Infra.Data",
+      "ColorIndex": 1
+    },
+    "22a0302e-7323-43bc-9e69-2060ff43e6aa": {
+      "ProjectGuid": "22a0302e-7323-43bc-9e69-2060ff43e6aa",
+      "DisplayName": "CleanArchMvc.Infra.IoC",
+      "ColorIndex": 2
+    },
+    "5980fd4c-81b1-4bf3-a823-11a05f449faf": {
+      "ProjectGuid": "5980fd4c-81b1-4bf3-a823-11a05f449faf",
+      "DisplayName": "CleanArchMvc.WebUI",
+      "ColorIndex": 3
+    },
+    "a26ed827-3f8f-4ed0-910e-de4bcaea9959": {
+      "ProjectGuid": "a26ed827-3f8f-4ed0-910e-de4bcaea9959",
+      "DisplayName": "CleanArchMvc.Domain",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
